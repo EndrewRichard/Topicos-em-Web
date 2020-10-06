@@ -1,0 +1,24 @@
+EXERCICIO 5:
+
+Ficou inclompleto pois não entendi o metodo de pesquisa de datas do google e acabou o tempo de enviar o resultado.
+
+
+EXERCICIO 4:
+
+Googlebot, o crawler do Google
+Yahoo! Sluro, do Yahoo!
+Dyno Mapper, focado na criação automática de mapas do site
+
+EXERCICIO 6:
+
+Usaria a API do twitter, conectado a uma aplicação criada por mim com as regras 
+e necessidades que eu desejo buscar, essa rede social tem boa interação da 
+população quando se trata desses assuntos, sendo assim teria uma boa quantidade 
+de dados para tratar. Assim como no primeiro exercicio faria usaria a api 
+setando o idioma e as palavras chaves a serem buscadas, se necesario limitaria 
+tambem a data, visto que como em casos igual ao do covid a palavra chave 
+'corona' antes de 2020 estaria ligada a cerveja e não a doença, logo 
+conseguiria retornar uma boa base da dados com dados mais consistentes para 
+analise.
+
+
